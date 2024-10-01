@@ -32,4 +32,4 @@ USAGE (DECOMPRESSION PROGRAM):
 CREDITS:
 
 - Esta, Kiel Andrew | Collaborator
-    - GitHub Account: Kiel-Andrew
+    - GitHub: Kiel-Andrew
